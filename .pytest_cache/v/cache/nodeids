@@ -1,0 +1,5 @@
+[
+  "tests/test_main.py::test_calculate_deposit_invalid_date",
+  "tests/test_main.py::test_calculate_deposit_out_of_bounds",
+  "tests/test_main.py::test_calculate_deposit_success"
+]
